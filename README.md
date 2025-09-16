@@ -15,23 +15,26 @@ One of Datawise Solutions' clients, a burgeoning e-commerce startup is looking t
 To meet the client's needs, Datawise plans to develop a script that automates the setup of EC2 instances and S3 buckets. The script incorporate the 5 critical shell scripting concepts mentioned earlier.
 
 Below is the screenshot of the source code used for powering the automation
-[](./Images/one.png)
+![](./iIMAGES/one.png)
 
-[](./Images/two.png)
 
-[](./Images/three.png)
+![](./iIMAGES/two.png)
 
-[](./Images/four.png)
+![](./iIMAGES/three.png)
 
-[](/Images/five.png)
+
+![](./iIMAGES/four.png)
+
+![](./iIMAGES/five.png)
 
 
 1. Functions: Implemented custom functions to modularize the tasks of creating EC2 instance and S3 bucket.
-[](./Images/two.png)
+![](./iIMAGES/two.png)
 
-[](./Images/three.png)
+![](./iIMAGES/three.png)
 
-[](./Images/four.png)
+![](./iIMAGES/four.png)
 
-[](./Images/five.png)
+![](./iIMAGES/five.png)
+
 
